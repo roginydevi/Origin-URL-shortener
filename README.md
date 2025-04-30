@@ -1,6 +1,6 @@
 # URL Shortener
 
-A simple URL shortener application built with Spring Boot that allows to create shortened versions of long URLs.
+]URL shortener application is built with Spring Boot that allows to create shortened versions of long URLs.
 
 ## Features Included
 
